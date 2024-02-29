@@ -41,6 +41,4 @@ For more info check the client.py file.
 
 # FAQ
 
-Where is the pypi vfsc package? The reason I didn't add any package is that I don't want to make the client installation more complicated by forcing users to download the package.
-
 
